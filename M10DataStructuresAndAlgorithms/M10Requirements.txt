@@ -1,4 +1,4 @@
-M10 for Data Structures and Algorithms
+M10: Data Structures and Algorithms
 
 For M10, the requirements are to...
 
