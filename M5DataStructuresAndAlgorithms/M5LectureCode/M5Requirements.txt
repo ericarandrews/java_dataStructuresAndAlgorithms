@@ -1,4 +1,4 @@
-M5 for Data Structures and Algorithms
+M5: for Data Structures and Algorithms
 
 For M5, the requirements are to...
 
