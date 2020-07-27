@@ -1,4 +1,4 @@
-M6 for Data Structures and Algorithms
+M6: Data Structures and Algorithms
 
 For M6, the requirements are to...
 
