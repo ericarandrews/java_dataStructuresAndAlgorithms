@@ -1,4 +1,4 @@
-M3: for Data Structures and Algorithms
+M3: Data Structures and Algorithms
 
 For M3, the requirements are to...
 
