@@ -1,4 +1,4 @@
-M7 for Data Structures and Algorithms
+M7: Data Structures and Algorithms
 
 For M7, the requirements are to...
 
